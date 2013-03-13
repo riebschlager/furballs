@@ -8,7 +8,7 @@ void setup() {
   noStroke();
   background(255);
   // Pick a photo. I Included img1.jpg, img2.jpg and img3.jpg
-  source = loadImage("img1.jpg");
+  source = loadImage("img4.jpg");
   size(source.width, source.height);
 }
 
